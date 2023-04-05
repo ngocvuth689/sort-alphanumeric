@@ -1,0 +1,17 @@
+D:\Learning\.NET\SortRack\SortRack\bin\Debug\net6.0\SortRack.exe
+D:\Learning\.NET\SortRack\SortRack\bin\Debug\net6.0\SortRack.deps.json
+D:\Learning\.NET\SortRack\SortRack\bin\Debug\net6.0\SortRack.runtimeconfig.json
+D:\Learning\.NET\SortRack\SortRack\bin\Debug\net6.0\SortRack.dll
+D:\Learning\.NET\SortRack\SortRack\bin\Debug\net6.0\ref\SortRack.dll
+D:\Learning\.NET\SortRack\SortRack\bin\Debug\net6.0\SortRack.pdb
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.csproj.AssemblyReference.cache
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.AssemblyInfoInputs.cache
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.AssemblyInfo.cs
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.csproj.CoreCompileInputs.cache
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.dll
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\ref\SortRack.dll
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.pdb
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.genruntimeconfig.cache
+D:\Learning\.NET\SortRack\SortRack\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Learning\.NET\SortRack\SortRack\obj\Debug\net6.0\SortRack.csproj.CopyComplete

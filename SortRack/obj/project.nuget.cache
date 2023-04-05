@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qP3RB9Jf0Bqhc6Yxdcdx9n4oCcy3ksRzHeo8rkzq5+0cQYl2S5j2uL94ANG8kjGzbb79dJVB6Hi8c9p33uI9Fg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\.NET\\SortRack\\SortRack\\SortRack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhama\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
